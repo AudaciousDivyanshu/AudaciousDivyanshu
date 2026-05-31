@@ -83,10 +83,11 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 <br/>
 
 <!-- ░░░ ANIMATED TYPING — ROLE CAROUSEL ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Co-Founder+%40+Singularity+Horizon+Technologies;🌀+Building+Orion+Helix+—+Multiplayer+AI+Workspace;🧠+AI%2FML+Developer+%7C+Full+Stack+Engineer;⚡+Turning+Vision+Into+Products+That+Matter;🌐+India+→+Building+For+The+World" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Co-Founder+%40+Singularity+Horizon+Technologies;🌀+Building+Orion+Helix+—+Multiplayer+AI+Workspace;🧠+AI%2FML+Developer+%7C+Full+Stack+Engineer;⚡+Turning+Vision+Into+Products+That+Matter;🌐+India+→+Building+For+The+World"/>
+
 
 <!-- ░░░ TAGLINE ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=700&lines=⟡+Evolving+Intelligence+%7C+Multiplayer+AI+%7C+Ship+Fast+%7C+Think+Deep+%7C+Scale+Bold+⟡" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=700&lines=⟡+Evolving+Intelligence+%7C+Multiplayer+AI+%7C+Ship+Fast+%7C+Think+Deep+%7C+Scale+Bold+⟡" />
 
 <br/>
 
@@ -157,7 +158,7 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=🌌+Evolving+Intelligence+for+Teams;⚡+AI+is+no+longer+a+solo+tool+—+it%27s+a+multiplayer+co-founder;🚀+Where+Human+Vision+Meets+Artificial+Intelligence" alt="Company Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=🌌+Evolving+Intelligence+for+Teams;⚡+AI+is+no+longer+a+solo+tool+—+it%27s+a+multiplayer+co-founder;🚀+Where+Human+Vision+Meets+Artificial+Intelligence" />
 
 <br/><br/>
 
