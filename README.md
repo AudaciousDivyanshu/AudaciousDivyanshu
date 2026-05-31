@@ -1,98 +1,15 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║        DIVYANSHU SISODIYA — GITHUB PROFILE README           ║ -->
-<!-- ║        Co-Founder @ Singularity Horizon Technologies        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  PHOTO SETUP INSTRUCTIONS (do this once):               ║
-  ║  1. Upload your photo to your GitHub profile repo at:   ║
-  ║     AudaciousDivyanshu/AudaciousDivyanshu               ║
-  ║  2. Name the file: profile-photo.jpeg                   ║
-  ║  3. The img tag below auto-references it from the repo  ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<!-- ░░░░░░░░░░░░░░ GLASSMORPHISM HEADER ░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-<!-- Base deep gradient background banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,25:061530,50:0a1f4d,75:0d2960,100:061530&height=320&section=header&text=&fontSize=1&fontAlignY=50"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=260&section=header&text=Divyanshu%20Sisodiya&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%40%20Singularity%20Horizon%20%7C%20AI%2FML%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
 
-</div>
-
-<!-- GLASSMORPHISM HEADER CARD — overlaid on the waving banner via negative margin -->
-<div align="center">
-<table style="margin-top:-260px; background:rgba(10,31,77,0.45); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border:1px solid rgba(88,166,255,0.25); border-radius:20px; padding:28px 36px; max-width:860px; width:90%; box-shadow:0 8px 48px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.08);">
-<tr>
-<td valign="middle" width="28%" align="center">
-
-<!-- PROFILE PHOTO — circular with glowing ring -->
-<img src="https://raw.githubusercontent.com/AudaciousDivyanshu/AudaciousDivyanshu/main/profile-photo.jpeg"
-  width="140"
-  style="border-radius:50%; border:3px solid rgba(88,166,255,0.7); box-shadow:0 0 24px rgba(88,166,255,0.4), 0 0 48px rgba(127,90,240,0.2); object-fit:cover;"
-  alt="Divyanshu Sisodiya"/>
-
-<br/><br/>
-
-<!-- Inline social icons under photo -->
-<a href="https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22"/></a>
-&nbsp;
-<a href="https://github.com/AudaciousDivyanshu">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/></a>
-&nbsp;
-<a href="mailto:divyanshusisodiya1@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22"/></a>
-
-</td>
-<td valign="middle" width="72%" style="padding-left:28px;">
-
-<h1 style="font-size:32px; font-weight:800; color:#ffffff; margin:0; letter-spacing:2px;">DIVYANSHU SISODIYA</h1>
-
-<p style="font-size:15px; color:#58A6FF; margin:6px 0 4px; letter-spacing:1px;">
-🏢 Co-Founder &nbsp;@&nbsp; <strong style="color:#a78bfa;">Singularity Horizon Technologies</strong>
-</p>
-
-<p style="font-size:13px; color:#8892a4; margin:0 0 14px; letter-spacing:1px;">
-AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builder &nbsp;·&nbsp; India 🇮🇳
-</p>
-
-<!-- Animated typing inside the glass card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=700&color=58A6FF&center=false&vCenter=true&width=540&lines=🚀+Building+Orion+Helix+—+Multiplayer+AI+Workspace;🧠+Exploring+Agentic+AI+%26+LLM+Architectures;⚡+Turning+Vision+Into+Products+That+Matter;🌐+India+→+Building+For+The+World" alt="Typing"/>
-
-<br/><br/>
-
-<!-- Stat badges row -->
-<img src="https://komarev.com/ghpvc/?username=AudaciousDivyanshu&label=👁+Views&color=58A6FF&style=flat-square" alt="Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/AudaciousDivyanshu?label=★+Followers&style=flat-square&color=7F5AF0&labelColor=0D1117" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡-AI%2FML-FF6B6B?style=flat-square&labelColor=0D1117" alt="Focus"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🔨-Building-2ECC71?style=flat-square&labelColor=0D1117" alt="Status"/>
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate"  />
 
 <br/>
 
-<!-- ░░░ ANIMATED TYPING — ROLE CAROUSEL ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Co-Founder+%40+Singularity+Horizon+Technologies;🌀+Building+Orion+Helix+—+Multiplayer+AI+Workspace;🧠+AI%2FML+Developer+%7C+Full+Stack+Engineer;⚡+Turning+Vision+Into+Products+That+Matter;🌐+India+→+Building+For+The+World"/>
-
-
-<!-- ░░░ TAGLINE ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=700&lines=⟡+Evolving+Intelligence+%7C+Multiplayer+AI+%7C+Ship+Fast+%7C+Think+Deep+%7C+Scale+Bold+⟡" />
-
-<br/>
-
-<!-- ░░░ SKILL ICONS ░░░ -->
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,tensorflow,pytorch,docker,git,figma&theme=dark&perline=12" alt="Skills"/>
+<img src="https://komarev.com/ghpvc/?username=AudaciousDivyanshu&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AudaciousDivyanshu?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Startups-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
 
 </div>
 
@@ -100,36 +17,38 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480"/>
+</div>
+
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="50%">
 
 <h3>👤 Identity</h3>
 
 &nbsp;&nbsp;🧑‍💻 &nbsp;<strong>Divyanshu Sisodiya</strong><br/>
 &nbsp;&nbsp;🏢 &nbsp;Co-Founder @ <strong>Singularity Horizon</strong><br/>
-&nbsp;&nbsp;📍 &nbsp;India 🇮🇳 — Building for the world<br/>
+&nbsp;&nbsp;📍 &nbsp;India 🇮🇳<br/>
 &nbsp;&nbsp;🎓 &nbsp;CSE (AI/ML) — In Progress<br/>
-&nbsp;&nbsp;🚀 &nbsp;Startup builder obsessed with AI
+&nbsp;&nbsp;🚀 &nbsp;Building products that matter
 
 <br/><br/>
 
 <h3>⚡ Currently Working On</h3>
 
-🌀 &nbsp;<strong>Orion Helix AI</strong> — Multiplayer AI Workspace<br/>
-🔭 &nbsp;Scaling Singularity Horizon Technologies<br/>
-🧠 &nbsp;Agentic AI systems & LLM architectures<br/>
-🛠️ &nbsp;Full-stack AI product development<br/>
-🤝 &nbsp;Connecting with global builders & investors
+🔭 &nbsp; Scaling Singularity Horizon<br/>
+🧠 &nbsp; Orion Helix AI — Multiplayer AI Workspace<br/>
+🛠️ &nbsp; Building full-stack AI tools<br/>
+📖 &nbsp; Studying LLMs & RAG Architectures<br/>
+🤝 &nbsp; Connecting with global builders
 
-<br/><br/>
+</td>
+<td valign="top" width="50%">
 
-<h3>🌱 Open To</h3>
+<h3>🎯 Mission</h3>
 
-✅ &nbsp;Co-building & Collaborations<br/>
-✅ &nbsp;Startup Partnerships & Angel Investors<br/>
-✅ &nbsp;Open Source Contributions<br/>
-✅ &nbsp;Mentorship & Knowledge Exchange
+<em>Building AI-powered products that solve real-world problems at scale — not for individuals, but for entire teams.</em>
 
 <br/><br/>
 
@@ -137,20 +56,18 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 
 <em>"Move fast, build smart, scale fearlessly."</em>
 
-</td>
-<td valign="middle" width="48%" align="center">
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<h3>🌱 Open To</h3>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+✅ &nbsp; Collaborations & Co-building<br/>
+✅ &nbsp; Startup Partnerships<br/>
+✅ &nbsp; Open Source Contributions<br/>
+✅ &nbsp; Mentorship & Knowledge Exchange
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -158,41 +75,35 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=🌌+Evolving+Intelligence+for+Teams;⚡+AI+is+no+longer+a+solo+tool+—+it%27s+a+multiplayer+co-founder;🚀+Where+Human+Vision+Meets+Artificial+Intelligence" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f3460,100:0D1117&height=80&section=header"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=🌌+Evolving+Intelligence+for+Teams;🚀+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Where+Teams+Think+%26+Build+Together+with+AI"/>
+
+<br/>
 
 </div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/VISION-58A6FF?style=for-the-badge&labelColor=020817"/>
-<br/><br/>🧭<br/><br/>
+<img src="https://img.shields.io/badge/🧭-VISION-0f3460?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
+<br/><br/>
 <strong>Democratize AI collaboration for every team on the planet</strong>
-<br/><br/>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/MISSION-7F5AF0?style=for-the-badge&labelColor=020817"/>
-<br/><br/>🎯<br/><br/>
-<strong>Build AI-native products that make teams think & execute at the speed of thought</strong>
+<img src="https://img.shields.io/badge/⚡-WHAT%20WE%20DO-0f3460?style=for-the-badge&labelColor=0D1117&color=7F5AF0"/>
 <br/><br/>
+<strong>Build AI-native products that make teams think & execute faster</strong>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/STAGE-FF6B6B?style=for-the-badge&labelColor=020817"/>
-<br/><br/>🛠️<br/><br/>
-<strong>Early-stage startup — building in public, shipping fast, learning faster</strong>
+<img src="https://img.shields.io/badge/🛠️-STAGE-0f3460?style=for-the-badge&labelColor=0D1117&color=FF6B6B"/>
 <br/><br/>
+<strong>Early-stage startup — building in public, shipping fast</strong>
 </td>
 <td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/ORIGIN-2ECC71?style=for-the-badge&labelColor=020817"/>
-<br/><br/>🌍<br/><br/>
-<strong>Born in India 🇮🇳 — engineered for the world</strong>
+<img src="https://img.shields.io/badge/🌍-BASED%20IN-0f3460?style=for-the-badge&labelColor=0D1117&color=2ECC71"/>
 <br/><br/>
+<strong>India 🇮🇳 — Building for the world</strong>
 </td>
 </tr>
 </table>
@@ -203,18 +114,19 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 
 <div align="center">
 
-### ✦ Our First Product ✦
+### ⚡ Our First Product
 
 # 🌀 ORION HELIX AI
+
 ### *The World's First Multiplayer AI Workspace*
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20🔨-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-🔨%20Building-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LAUNCH-Early%20Access%20Soon-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STAGE-Early%20Access%20Soon-58A6FF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TYPE-Multiplayer%20AI-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TYPE-Multiplayer%20AI%20Workspace-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -224,35 +136,37 @@ AI/ML Architect &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Builde
 <tr>
 <td valign="middle" width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="260"/>
+
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100%"/>
+
+> *"AI as a co-founder,*
+> *not just a tool."*
 
 </td>
 <td valign="top" width="60%">
 
-<h3>🧬 What is Orion Helix?</h3>
+<h4>🧬 What is Orion Helix?</h4>
 
-A <strong>real-time multiplayer AI workspace</strong> — where your entire team thinks, collaborates, and executes with AI <em>together</em>. Not one by one. Not in silos. <strong>Together. Live. Synchronized.</strong>
-
-<br/><br/>
-
-<h3>❌ The Broken Reality of AI Today</h3>
-
-Every AI tool is <strong>single-player</strong> by design. You open it alone. You prompt alone. You generate alone. Then copy-paste, switch tabs, re-explain context to teammates. <strong>Your team is always one step behind your AI thinking.</strong>
+A <strong>real-time multiplayer AI workspace</strong> where your whole team thinks, collaborates, and executes with AI <em>together</em> — not separately, not in silos.
 
 <br/>
 
-<h3>✅ The Orion Helix Breakthrough</h3>
+<h4>❌ The Problem Today</h4>
 
-| 🔥 Feature | 💡 What It Unlocks |
+Every AI tool is **single-player**. You open it alone. You generate alone. You copy-paste and share manually. Your team stays **disconnected** from your AI thinking.
+
+<br/>
+
+<h4>✅ The Orion Helix Difference</h4>
+
+| Feature | What it means for your team |
 |:---|:---|
-| 🧠 **Multiplayer by default** | Entire squad in one live AI session |
-| 💬 **Chat + Canvas fused** | Zero app-switching, full context |
-| ⚡ **Real-time sync** | Everyone sees, edits & builds live |
-| 🤝 **AI as co-founder** | Not a tool — an active team member |
-| 🗺️ **Collaborative canvas** | Shared thinking, not isolated windows |
-| 🚀 **Speed of thought** | Idea → execution, zero friction |
+| 🧠 **Multiplayer by default** | Whole team in the same AI session |
+| 💬 **Chat + Canvas fused** | No more switching between apps |
+| ⚡ **Live sync workspace** | Everyone sees, edits, builds in real time |
+| 🤝 **AI as co-founder** | Not just a tool — a team member |
+| 🚀 **Speed of thought** | Zero friction from idea to execution |
 
 </td>
 </tr>
@@ -262,17 +176,19 @@ Every AI tool is <strong>single-player</strong> by design. You open it alone. Yo
 
 <br/>
 
-> 💬 *"Most AI platforms help individuals work faster.*
-> *Orion Helix is built to help entire teams think, collaborate,*
-> *and execute with AI — together, in real time.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0f3460,70:0f3460,100:0D1117&height=80&text=💡%20The%20Orion%20Helix%20Vision&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
+
+> *"Most AI platforms help individuals work faster.*
+> *Orion Helix is being built to help entire teams think, collaborate,*
+> *and execute with AI together — in real time.*
 > *At Singularity Horizon, we are evolving intelligence by turning AI*
 > *from an isolated, single-player tool into a multiplayer co-founder."*
 >
-> **— Divyanshu Sisodiya &nbsp;|&nbsp; Co-Founder, Singularity Horizon Technologies**
-
-</div>
+> **— Divyanshu Sisodiya**, Co-Founder, Singularity Horizon Technologies
 
 <br/>
+
+</div>
 
 ---
 
@@ -341,33 +257,30 @@ Every AI tool is <strong>single-player</strong> by design. You open it alone. Yo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff&bg_color=0D1117&border_radius=12&ring_color=7F5AF0" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=7F5AF0&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=12" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=7F5AF0&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats"/>
 
-<br/><br/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudaciousDivyanshu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&title_color=58A6FF&text_color=ffffff&bg_color=0D1117&border_radius=12" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudaciousDivyanshu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=58A6FF&text_color=ffffff&bg_color=0D1117" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&custom_title=⚡+Divyanshu%27s+Contribution+Pulse&bg_color=0D1117&color=58A6FF&line=7F5AF0&point=FF6B6B&area=true&hide_border=true&area_color=1a1a4e&radius=8)](https://github.com/AudaciousDivyanshu)
+[![Divyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=7F5AF0&point=FF6B6B&area=true&hide_border=true&area_color=58A6FF)](https://github.com/AudaciousDivyanshu)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AudaciousDivyanshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AudaciousDivyanshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -377,25 +290,9 @@ Every AI tool is <strong>single-player</strong> by design. You open it alone. Yo
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%"><br/>
-<img src="https://img.shields.io/badge/01-BUILD%20FAST-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/><h3>⚡</h3>
-Ship MVPs. Learn from real users.<br/>Iterate relentlessly. Never over-plan.
-<br/><br/></td>
-<td align="center" width="33%"><br/>
-<img src="https://img.shields.io/badge/02-THINK%20DEEP-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/><h3>🧠</h3>
-AI isn't a feature — it's a new<br/>paradigm of intelligence entirely.
-<br/><br/></td>
-<td align="center" width="33%"><br/>
-<img src="https://img.shields.io/badge/03-SCALE%20BOLD-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/><h3>🌍</h3>
-Local roots. Global ambition.<br/>Zero compromises. Ever.
-<br/><br/></td>
-</tr>
-</table>
+| ⚡ Build Fast | 🧠 Think Deep | 🌍 Scale Bold |
+|:---:|:---:|:---:|
+| Ship MVPs. Learn from users. Iterate relentlessly. | AI is not a tool. It's a new paradigm of intelligence. | Local solutions. Global ambition. Zero compromises. |
 
 </div>
 
@@ -407,43 +304,24 @@ Local roots. Global ambition.<br/>Zero compromises. Ever.
 
 | Goal | Status |
 |------|--------|
-| 🌀 Launch **Orion Helix AI** — first public version | 🔄 In Progress |
+| 🚀 Launch Singularity Horizon's first product | 🔄 In Progress |
 | 🧠 Master Agentic AI & LLM fine-tuning | 🔄 In Progress |
-| 🌐 Build & ship 5 AI-powered products | 🔄 In Progress |
+| 🌐 Build & ship 5 AI-powered projects | 🔄 In Progress |
 | 📦 Contribute to major Open Source AI repos | ⬜ Upcoming |
-| 🎤 Speak at a tech / startup event | ⬜ Upcoming |
-| 💰 Achieve first Singularity Horizon revenue milestone | 🔄 In Progress |
+| 🎤 Speak at a tech/startup event | ⬜ Upcoming |
+| 💰 Achieve first startup revenue milestone | 🔄 In Progress |
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░ GLASSMORPHISM FOOTER ░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<!-- Base footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,40:0a1f4d,70:0d2960,100:020817&height=200&section=footer&text=&fontSize=1"/>
+**Open to collaborations, co-founder opportunities & building the future together.**
 
-<!-- GLASSMORPHISM FOOTER CARD — centered over wave -->
-<div align="center" style="margin-top:-170px; margin-bottom:20px;">
-<table style="background:rgba(10,31,77,0.45); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border:1px solid rgba(88,166,255,0.2); border-radius:16px; padding:20px 36px; max-width:760px; width:88%; box-shadow:0 4px 32px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.06);">
-<tr>
-<td align="center">
+*"The best way to predict the future is to build it."* — Alan Kay
 
-<p style="color:#ffffff; font-size:15px; margin:0 0 6px;">
-<strong>Open to collaborations, co-founder opportunities & building the future together.</strong>
-</p>
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,75:1a1a2e,100:0D1117&height=140&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=20&fontColor=58A6FF&animation=twinkling&fontAlignY=65"/>
 
-<p style="color:#58A6FF; font-size:13px; font-style:italic; margin:0 0 14px;">
-"The best way to predict the future is to build it." — Alan Kay
-</p>
-
-<img src="https://img.shields.io/badge/Singularity%20Horizon-Technologies-58A6FF?style=for-the-badge&labelColor=020817"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Orion%20Helix-AI-7F5AF0?style=for-the-badge&labelColor=020817"/>
-
-</td>
-</tr>
-</table>
 </div>
-
-<!-- Built with 🧠 by Divyanshu Sisodiya | Co-Founder @ Singularity Horizon -->
