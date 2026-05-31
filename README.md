@@ -1,59 +1,205 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:7F5AF0&height=220&section=header&text=Divyanshu%20Sisodiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20@%20Singularity%20Horizon%20🚀&descAlignY=55&descSize=20"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=260&section=header&text=Divyanshu%20Sisodiya&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%40%20Singularity%20Horizon%20%7C%20AI%2FML%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
+
+<!-- Animated Typing -->
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AudaciousDivyanshu&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AudaciousDivyanshu?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Startups-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+
+### 👨‍🚀 Who Am I?
+
+```yaml
+╔══════════════════════════════════════════╗
+  👤  Divyanshu Sisodiya
+  🏢  Co-Founder @ Singularity Horizon
+  📍  India 🇮🇳
+  🎓  CSE (AI/ML) — In Progress
+╚══════════════════════════════════════════╝
+```
+
+🎯 **Mission**
+> Building AI-powered products that solve real-world problems at scale.
+
+⚡ **Currently Working On**
+- 🔭 &nbsp; Scaling Singularity Horizon
+- 🧠 &nbsp; Exploring Agentic AI Systems
+- 🛠️ &nbsp; Building full-stack AI tools
+- 📖 &nbsp; Studying LLMs & RAG Architectures
+- 🤝 &nbsp; Connecting with global builders
+
+💬 **Philosophy**
+> *"Move fast, build smart, scale fearlessly."*
+
+🌱 **Open To**
+- ✅ &nbsp; Collaborations & Co-building
+- ✅ &nbsp; Startup Partnerships
+- ✅ &nbsp; Open Source Contributions
+- ✅ &nbsp; Mentorship & Knowledge Exchange
+
+<br clear="right"/>
+
+---
+
+## 🏢 Singularity Horizon — My Startup
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Developer;Startup+Builder;Building+AI-Powered+Products;Full+Stack+Developer;Open+Source+Enthusiast"/>
+> *"Where Human Vision Meets Artificial Intelligence"*
+
+| 🎯 Mission | ⚡ Vision | 🛠️ Focus |
+|:---:|:---:|:---:|
+| Build AI products that create real impact | Democratize AI for businesses & individuals | AI Automation, SaaS, Intelligent Systems |
 
 </div>
 
-# Hi 👋, I'm Divyanshu Sisodiya
+---
 
-🚀 Co-Founder @ Singularity Union  
-🎓 CSE AI/ML Student  
-💡 Building AI-powered products, automations & scalable systems  
-⚡ Passionate about AI, Startups, and Innovation
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://github.com/AudaciousDivyanshu">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="mailto:divyanshusisodiya1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AudaciousDivyanshu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshusisodiya1@gmail.com)
 
 </div>
-
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-
-## 📈 Contribution Graph
-
-[![Divyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/AudaciousDivyanshu)
-
-</div>
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=AudaciousDivyanshu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AudaciousDivyanshu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:58A6FF,100:0D1117&height=120&section=footer"/>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=7F5AF0&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudaciousDivyanshu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=58A6FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Divyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=7F5AF0&point=FF6B6B&area=true&hide_border=true&area_color=58A6FF)](https://github.com/AudaciousDivyanshu)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AudaciousDivyanshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💡 Founder Philosophy
+
+<div align="center">
+
+| ⚡ Build Fast | 🧠 Think Deep | 🌍 Scale Bold |
+|:---:|:---:|:---:|
+| Ship MVPs. Learn from users. Iterate relentlessly. | AI is not a tool. It's a new paradigm of intelligence. | Local solutions. Global ambition. Zero compromises. |
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Launch Singularity Horizon's first product | 🔄 In Progress |
+| 🧠 Master Agentic AI & LLM fine-tuning | 🔄 In Progress |
+| 🌐 Build & ship 5 AI-powered projects | 🔄 In Progress |
+| 📦 Contribute to major Open Source AI repos | ⬜ Upcoming |
+| 🎤 Speak at a tech/startup event | ⬜ Upcoming |
+| 💰 Achieve first startup revenue milestone | 🔄 In Progress |
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborations, co-founder opportunities & building the future together.**
+
+*"The best way to predict the future is to build it."* — Alan Kay
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,75:1a1a2e,100:0D1117&height=140&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=20&fontColor=58A6FF&animation=twinkling&fontAlignY=65"/>
 
 </div>
