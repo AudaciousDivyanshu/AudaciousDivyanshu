@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480"/>
 </div>
 
 <table>
@@ -71,73 +71,102 @@
 
 ---
 
-## 🏢 Singularity Horizon & What We're Building
+## 🏢 What We're Building @ Singularity Horizon
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0f3460,100:0D1117&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f3460,100:0D1117&height=80&section=header"/>
 
-### 🌌 Singularity Horizon Technologies
-
-> *"We are evolving intelligence — turning AI from an isolated, single-player tool into a multiplayer co-founder."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=🌌+Evolving+Intelligence+for+Teams;🚀+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Where+Teams+Think+%26+Build+Together+with+AI" alt="Company Typing"/>
 
 <br/>
-
-| | |
-|:---|:---|
-| 🧭 **Vision** | Democratize AI collaboration for every team on the planet |
-| ⚡ **What We Do** | Build AI-native products that make teams think, build & execute faster |
-| 🛠️ **Stage** | Early-stage startup — building in public, shipping fast |
-| 🌍 **Based In** | India 🇮🇳 — building for the world |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Our First Product — Orion Helix AI
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2"/>
 
 </div>
 
 <table>
 <tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧭-VISION-0f3460?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
+<br/><br/>
+<strong>Democratize AI collaboration for every team on the planet</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡-WHAT%20WE%20DO-0f3460?style=for-the-badge&labelColor=0D1117&color=7F5AF0"/>
+<br/><br/>
+<strong>Build AI-native products that make teams think & execute faster</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛠️-STAGE-0f3460?style=for-the-badge&labelColor=0D1117&color=FF6B6B"/>
+<br/><br/>
+<strong>Early-stage startup — building in public, shipping fast</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌍-BASED%20IN-0f3460?style=for-the-badge&labelColor=0D1117&color=2ECC71"/>
+<br/><br/>
+<strong>India 🇮🇳 — Building for the world</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⚡ Our First Product
+
+# 🌀 ORION HELIX AI
+
+### *The World's First Multiplayer AI Workspace*
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-🔨%20Building-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STAGE-Early%20Access%20Soon-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TYPE-Multiplayer%20AI%20Workspace-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+</div>
+
+<table>
+<tr>
+<td valign="middle" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="260"/>
+
+<br/>
+
+> *"AI as a co-founder,*
+> *not just a tool."*
+
+</td>
 <td valign="top" width="60%">
 
 <h4>🧬 What is Orion Helix?</h4>
 
-Orion Helix is a <strong>real-time multiplayer AI workspace</strong> — where your whole team thinks, collaborates, and executes with AI <em>together</em>, not separately.
+A <strong>real-time multiplayer AI workspace</strong> where your whole team thinks, collaborates, and executes with AI <em>together</em> — not separately, not in silos.
 
-<br/><br/>
+<br/>
 
-<h4>❌ The Problem With Every AI Tool Today</h4>
+<h4>❌ The Problem Today</h4>
 
-Most AI platforms are built for <strong>one person</strong>. You open ChatGPT, Claude, or Gemini alone. You generate. You copy-paste. You share manually. <strong>Your team is disconnected.</strong>
+Every AI tool is **single-player**. You open it alone. You generate alone. You copy-paste and share manually. Your team stays **disconnected** from your AI thinking.
 
 <br/>
 
 <h4>✅ The Orion Helix Difference</h4>
 
-&nbsp;&nbsp;🧠 &nbsp; <strong>Multiplayer by default</strong> — your whole team is in the same AI session<br/>
-&nbsp;&nbsp;💬 &nbsp; <strong>Team chat + AI canvas fused</strong> — no more switching apps<br/>
-&nbsp;&nbsp;⚡ &nbsp; <strong>Live synchronized workspace</strong> — everyone sees, edits, builds in real time<br/>
-&nbsp;&nbsp;🤝 &nbsp; <strong>AI as a co-founder</strong> — not just a tool, but a team member<br/>
-&nbsp;&nbsp;🚀 &nbsp; <strong>Build at the speed of thought</strong> — zero friction between idea and execution
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Building%20🔨-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-<br/>
-<img src="https://img.shields.io/badge/Stage-Early%20Access%20Soon-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-<br/>
-<img src="https://img.shields.io/badge/Category-Multiplayer%20AI%20Workspace-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+| Feature | What it means for your team |
+|:---|:---|
+| 🧠 **Multiplayer by default** | Whole team in the same AI session |
+| 💬 **Chat + Canvas fused** | No more switching between apps |
+| ⚡ **Live sync workspace** | Everyone sees, edits, builds in real time |
+| 🤝 **AI as co-founder** | Not just a tool — a team member |
+| 🚀 **Speed of thought** | Zero friction from idea to execution |
 
 </td>
 </tr>
@@ -147,10 +176,15 @@ Most AI platforms are built for <strong>one person</strong>. You open ChatGPT, C
 
 <br/>
 
-> 💡 *"Most AI platforms help individuals work faster.*
-> *Orion Helix is being built to help entire teams think, collaborate, and execute with AI together — in real time."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0f3460,70:0f3460,100:0D1117&height=80&text=💡%20The%20Orion%20Helix%20Vision&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
+
+> *"Most AI platforms help individuals work faster.*
+> *Orion Helix is being built to help entire teams think, collaborate,*
+> *and execute with AI together — in real time.*
+> *At Singularity Horizon, we are evolving intelligence by turning AI*
+> *from an isolated, single-player tool into a multiplayer co-founder."*
 >
-> — **Divyanshu Sisodiya**, Co-Founder, Singularity Horizon
+> **— Divyanshu Sisodiya**, Co-Founder, Singularity Horizon Technologies
 
 <br/>
 
