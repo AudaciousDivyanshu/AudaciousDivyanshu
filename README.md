@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=260&section=header&text=Divyanshu%20Sisodiya&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%40%20Singularity%20Horizon%20%7C%20AI%2FML%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" alt="Typing SVG" />
 
 <br/>
 
@@ -17,44 +17,53 @@
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+</div>
+
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
-<h3>👨‍🚀 Who Am I?</h3>
+<h3>👤 Identity</h3>
 
-<p>
-&nbsp;&nbsp;👤 &nbsp;<strong>Divyanshu Sisodiya</strong><br/>
+&nbsp;&nbsp;🧑‍💻 &nbsp;<strong>Divyanshu Sisodiya</strong><br/>
 &nbsp;&nbsp;🏢 &nbsp;Co-Founder @ <strong>Singularity Horizon</strong><br/>
 &nbsp;&nbsp;📍 &nbsp;India 🇮🇳<br/>
-&nbsp;&nbsp;🎓 &nbsp;CSE (AI/ML) — In Progress
-</p>
+&nbsp;&nbsp;🎓 &nbsp;CSE (AI/ML) — In Progress<br/>
+&nbsp;&nbsp;🚀 &nbsp;Building products that matter
 
-<hr/>
+<br/><br/>
 
-<p>🎯 <strong>Mission</strong><br/>
-<em>Building AI-powered products that solve real-world problems at scale.</em></p>
+<h3>⚡ Currently Working On</h3>
 
-<p>⚡ <strong>Currently Working On</strong><br/>
 🔭 &nbsp; Scaling Singularity Horizon<br/>
-🧠 &nbsp; Exploring Agentic AI Systems<br/>
+🧠 &nbsp; Orion Helix AI — Multiplayer AI Workspace<br/>
 🛠️ &nbsp; Building full-stack AI tools<br/>
 📖 &nbsp; Studying LLMs & RAG Architectures<br/>
-🤝 &nbsp; Connecting with global builders</p>
+🤝 &nbsp; Connecting with global builders
 
-<p>💬 <strong>Philosophy</strong><br/>
-<em>"Move fast, build smart, scale fearlessly."</em></p>
+</td>
+<td valign="top" width="50%">
 
-<p>🌱 <strong>Open To</strong><br/>
+<h3>🎯 Mission</h3>
+
+<em>Building AI-powered products that solve real-world problems at scale — not for individuals, but for entire teams.</em>
+
+<br/><br/>
+
+<h3>💬 Philosophy</h3>
+
+<em>"Move fast, build smart, scale fearlessly."</em>
+
+<br/><br/>
+
+<h3>🌱 Open To</h3>
+
 ✅ &nbsp; Collaborations & Co-building<br/>
 ✅ &nbsp; Startup Partnerships<br/>
 ✅ &nbsp; Open Source Contributions<br/>
-✅ &nbsp; Mentorship & Knowledge Exchange</p>
-
-</td>
-<td valign="middle" width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+✅ &nbsp; Mentorship & Knowledge Exchange
 
 </td>
 </tr>
@@ -62,15 +71,88 @@
 
 ---
 
-## 🏢 Singularity Horizon — My Startup
+## 🏢 Singularity Horizon & What We're Building
 
 <div align="center">
 
-> *"Where Human Vision Meets Artificial Intelligence"*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0f3460,100:0D1117&height=3&section=header"/>
 
-| 🎯 Mission | ⚡ Vision | 🛠️ Focus |
-|:---:|:---:|:---:|
-| Build AI products that create real impact | Democratize AI for businesses & individuals | AI Automation, SaaS, Intelligent Systems |
+### 🌌 Singularity Horizon Technologies
+
+> *"We are evolving intelligence — turning AI from an isolated, single-player tool into a multiplayer co-founder."*
+
+<br/>
+
+| | |
+|:---|:---|
+| 🧭 **Vision** | Democratize AI collaboration for every team on the planet |
+| ⚡ **What We Do** | Build AI-native products that make teams think, build & execute faster |
+| 🛠️ **Stage** | Early-stage startup — building in public, shipping fast |
+| 🌍 **Based In** | India 🇮🇳 — building for the world |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Our First Product — Orion Helix AI
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2"/>
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+<h4>🧬 What is Orion Helix?</h4>
+
+Orion Helix is a <strong>real-time multiplayer AI workspace</strong> — where your whole team thinks, collaborates, and executes with AI <em>together</em>, not separately.
+
+<br/><br/>
+
+<h4>❌ The Problem With Every AI Tool Today</h4>
+
+Most AI platforms are built for <strong>one person</strong>. You open ChatGPT, Claude, or Gemini alone. You generate. You copy-paste. You share manually. <strong>Your team is disconnected.</strong>
+
+<br/>
+
+<h4>✅ The Orion Helix Difference</h4>
+
+&nbsp;&nbsp;🧠 &nbsp; <strong>Multiplayer by default</strong> — your whole team is in the same AI session<br/>
+&nbsp;&nbsp;💬 &nbsp; <strong>Team chat + AI canvas fused</strong> — no more switching apps<br/>
+&nbsp;&nbsp;⚡ &nbsp; <strong>Live synchronized workspace</strong> — everyone sees, edits, builds in real time<br/>
+&nbsp;&nbsp;🤝 &nbsp; <strong>AI as a co-founder</strong> — not just a tool, but a team member<br/>
+&nbsp;&nbsp;🚀 &nbsp; <strong>Build at the speed of thought</strong> — zero friction between idea and execution
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Building%20🔨-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Stage-Early%20Access%20Soon-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Category-Multiplayer%20AI%20Workspace-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+> 💡 *"Most AI platforms help individuals work faster.*
+> *Orion Helix is being built to help entire teams think, collaborate, and execute with AI together — in real time."*
+>
+> — **Divyanshu Sisodiya**, Co-Founder, Singularity Horizon
+
+<br/>
 
 </div>
 
