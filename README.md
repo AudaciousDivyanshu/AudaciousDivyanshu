@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=260&section=header&text=Divyanshu%20Sisodiya&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%40%20Singularity%20Horizon%20%7C%20AI%2FML%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate"  />
 
 <br/>
 
@@ -77,7 +77,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f3460,100:0D1117&height=80&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=🌌+Evolving+Intelligence+for+Teams;🚀+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Where+Teams+Think+%26+Build+Together+with+AI" alt="Company Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=🌌+Evolving+Intelligence+for+Teams;🚀+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Where+Teams+Think+%26+Build+Together+with+AI"/>
 
 <br/>
 
@@ -260,7 +260,7 @@ Every AI tool is **single-player**. You open it alone. You generate alone. You c
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=7F5AF0&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudaciousDivyanshu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=58A6FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudaciousDivyanshu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=58A6FF&text_color=ffffff&bg_color=0D1117" />
 
 </div>
 
