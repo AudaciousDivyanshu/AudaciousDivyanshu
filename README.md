@@ -3,10 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=260&section=header&text=Divyanshu%20Sisodiya&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Co-Founder%20%40%20Singularity%20Horizon%20%7C%20AI%2FML%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
 
-<!-- Animated Typing -->
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+with+AI;🧠+Co-Founder+%40+Singularity+Horizon;⚡+AI%2FML+Developer+%26+Full+Stack+Engineer;🌐+Turning+Vision+into+Scalable+Products;💡+Startup+Builder+%7C+Open+Source+Advocate" />
 
 <br/>
 
@@ -20,39 +17,48 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-### 👨‍🚀 Who Am I?
+<h3>👨‍🚀 Who Am I?</h3>
 
-```yaml
-╔══════════════════════════════════════════╗
-  👤  Divyanshu Sisodiya
-  🏢  Co-Founder @ Singularity Horizon
-  📍  India 🇮🇳
-  🎓  CSE (AI/ML) — In Progress
-╚══════════════════════════════════════════╝
-```
+<p>
+&nbsp;&nbsp;👤 &nbsp;<strong>Divyanshu Sisodiya</strong><br/>
+&nbsp;&nbsp;🏢 &nbsp;Co-Founder @ <strong>Singularity Horizon</strong><br/>
+&nbsp;&nbsp;📍 &nbsp;India 🇮🇳<br/>
+&nbsp;&nbsp;🎓 &nbsp;CSE (AI/ML) — In Progress
+</p>
 
-🎯 **Mission**
-> Building AI-powered products that solve real-world problems at scale.
+<hr/>
 
-⚡ **Currently Working On**
-- 🔭 &nbsp; Scaling Singularity Horizon
-- 🧠 &nbsp; Exploring Agentic AI Systems
-- 🛠️ &nbsp; Building full-stack AI tools
-- 📖 &nbsp; Studying LLMs & RAG Architectures
-- 🤝 &nbsp; Connecting with global builders
+<p>🎯 <strong>Mission</strong><br/>
+<em>Building AI-powered products that solve real-world problems at scale.</em></p>
 
-💬 **Philosophy**
-> *"Move fast, build smart, scale fearlessly."*
+<p>⚡ <strong>Currently Working On</strong><br/>
+🔭 &nbsp; Scaling Singularity Horizon<br/>
+🧠 &nbsp; Exploring Agentic AI Systems<br/>
+🛠️ &nbsp; Building full-stack AI tools<br/>
+📖 &nbsp; Studying LLMs & RAG Architectures<br/>
+🤝 &nbsp; Connecting with global builders</p>
 
-🌱 **Open To**
-- ✅ &nbsp; Collaborations & Co-building
-- ✅ &nbsp; Startup Partnerships
-- ✅ &nbsp; Open Source Contributions
-- ✅ &nbsp; Mentorship & Knowledge Exchange
+<p>💬 <strong>Philosophy</strong><br/>
+<em>"Move fast, build smart, scale fearlessly."</em></p>
 
-<br clear="right"/>
+<p>🌱 <strong>Open To</strong><br/>
+✅ &nbsp; Collaborations & Co-building<br/>
+✅ &nbsp; Startup Partnerships<br/>
+✅ &nbsp; Open Source Contributions<br/>
+✅ &nbsp; Mentorship & Knowledge Exchange</p>
+
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
