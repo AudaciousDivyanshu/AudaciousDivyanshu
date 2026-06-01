@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- Animated Header (capsule-render) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,70:16213e,100:1a1a2e&height=280&section=header&text=Divyanshu%20Sisodiya&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Singularity%20Horizon%20%7C%20AI%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2a,70:1a0033,100:0a0a2a&height=280&section=header&text=Divyanshu%20Sisodiya&fontSize=52&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Singularity%20Horizon%20%7C%20AI%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16&descColor=FF00FF"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+of+Team+Intelligence;🧠+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Full‑Stack+AI+%26+Startup+Builder;🌐+India+→+World+%7C+Open+Source;💡+“AI+as+a+co‑founder%2C+not+just+a+tool”" />
+<!-- Typing SVG (electric colors) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+of+Team+Intelligence;🧠+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Full‑Stack+AI+%26+Startup+Builder;🌐+India+→+World+%7C+Open+Source;💡+“AI+as+a+co‑founder%2C+not+just+a+tool”" />
 
 <br/>
 
-<!-- Modern Badge strip -->
-<img src="https://img.shields.io/badge/🚀_Founder-Orion_Helix-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDBhMSAxIDAgMCAwLTEgMXY0SDFhMSAxIDAgMCAwLTEgMXY2YTEgMSAwIDAgMCAxIDFoMTJhMSAxIDAgMCAwIDEtMVY1YTEgMSAwIDAgMC0xLTFIOVYxYTEgMSAwIDAgMC0xLTF6Ii8+PC9zdmc+" />
-<img src="https://img.shields.io/badge/🧠_AI_Architect-LLM_%26_Agents-7F5AF0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡_Building_in_Public-Singularity_Horizon-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌍_Global_Startup-India_→_World-2ECC71?style=for-the-badge" />
+<!-- Electric Badge Row (as per your screenshot) -->
+<img src="https://img.shields.io/badge/FOUNDER-ORION_HELIX-00FFFF?style=for-the-badge&logo=star&logoColor=black&labelColor=000000&color=00FFFF" />
+<img src="https://img.shields.io/badge/AI_ARCHITECT-LLM_&_AGENTS-FF00FF?style=for-the-badge&logo=ai&logoColor=black&labelColor=000000&color=FF00FF" />
+<img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-SINGULARITY_HORIZON-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000&color=00FF00" />
+<img src="https://img.shields.io/badge/GLOBAL_STARTUP-INDIA_→_WORLD-FF6B00?style=for-the-badge&logo=earth&logoColor=black&labelColor=000000&color=FF6B00" />
 
 </div>
 
 ---
 
-## 👨‍💻 Founder Profile
+## 👨‍💻 Founder Profile (Neon Edition)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<div style="background: #0D1117; border-radius: 28px; border: 1px solid #58A6FF; padding: 1.8rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+<div style="background: #0a0a0a; border-radius: 28px; border: 2px solid #00FFFF; padding: 1.8rem; box-shadow: 0 0 15px #00FFFF, inset 0 0 5px rgba(0,255,255,0.3);">
 
 ### 🧑 Identity
 
@@ -51,7 +51,7 @@
 </td>
 <td width="50%" valign="top">
 
-<div style="background: #0D1117; border-radius: 28px; border: 1px solid #7F5AF0; padding: 1.8rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+<div style="background: #0a0a0a; border-radius: 28px; border: 2px solid #FF00FF; padding: 1.8rem; box-shadow: 0 0 15px #FF00FF, inset 0 0 5px rgba(255,0,255,0.3);">
 
 ### 🎯 Mission
 
@@ -76,10 +76,10 @@
 
 ---
 
-## 🏢 Singularity Horizon – Building Orion Helix
+## 🏢 Singularity Horizon – Orion Helix AI
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0f3460,70:0f3460,100:0D1117&height=70&text=🌌%20The%20World's%20First%20Multiplayer%20AI%20Workspace&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a2a,100:000000&height=70&text=🌌%20The%20World's%20First%20Multiplayer%20AI%20Workspace&fontSize=22&fontColor=00FFFF&animation=fadeIn" />
 </div>
 
 <br/>
@@ -87,30 +87,30 @@
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #58A6FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <div style="background: #000000; border-radius: 20px; padding: 1.2rem; border: 1px solid #00FFFF; box-shadow: 0 0 10px #00FFFF;">
     <strong>🧭 VISION</strong><br/><br/>
-    Democratize AI collaboration for every team on the planet
+    Democratize AI collaboration for every team
   </div>
 </td>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #7F5AF0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <div style="background: #000000; border-radius: 20px; padding: 1.2rem; border: 1px solid #FF00FF; box-shadow: 0 0 10px #FF00FF;">
     <strong>⚡ WHAT WE DO</strong><br/><br/>
-    Build AI‑native products that make teams think & execute faster
+    Build AI‑native products that make teams faster
   </div>
 </td>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #FF6B6B; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <div style="background: #000000; border-radius: 20px; padding: 1.2rem; border: 1px solid #00FF00; box-shadow: 0 0 10px #00FF00;">
     <strong>🛠️ STAGE</strong><br/><br/>
-    Early‑stage startup — building in public, shipping fast
+    Early‑stage – building in public
   </div>
-</td>
+</td
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #2ECC71; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <div style="background: #000000; border-radius: 20px; padding: 1.2rem; border: 1px solid #FF6B00; box-shadow: 0 0 10px #FF6B00;">
     <strong>🌍 BASED IN</strong><br/><br/>
-    India 🇮🇳 — Building for the world
+    India → World
   </div>
-</td>
-</td>
+</tr>
+</tr>
 </table>
 
 <br/>
@@ -130,10 +130,10 @@
 <td width="50%">
 
 **🧬 What is Orion Helix?**  
-A **real‑time multiplayer AI workspace** where your whole team thinks, collaborates, and executes with AI *together* — not separately, not in silos.
+A **real‑time multiplayer AI workspace** where your whole team thinks, collaborates, and executes with AI *together*.
 
-**❌ The Problem Today**  
-Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑paste and share manually. Your team stays disconnected.
+**❌ The Problem**  
+Every AI tool is **single‑player**. Your team stays disconnected.
 
 </td>
 <td width="50%">
@@ -142,21 +142,20 @@ Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑
 
 | Feature | Benefit |
 |:---|:---|
-| 🧠 **Multiplayer by default** | Whole team in the same AI session |
-| 💬 **Chat + Canvas fused** | No more switching between apps |
-| ⚡ **Live sync workspace** | Everyone sees, edits, builds in real time |
-| 🤝 **AI as co‑founder** | Not just a tool — a team member |
+| 🧠 **Multiplayer by default** | Whole team in same session |
+| 💬 **Chat + Canvas fused** | No app switching |
+| ⚡ **Live sync workspace** | Real‑time collaboration |
+| 🤝 **AI as co‑founder** | Not just a tool |
 
-</td>
-</table>
-</table>
+</td
+</table
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0f3460,70:0f3460,100:0D1117&height=70&text=💡%20The%20Orion%20Helix%20Vision&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0a0a2a,70:0a0a2a,100:000000&height=70&text=💡%20The%20Orion%20Helix%20Vision&fontSize=18&fontColor=00FFFF" />
   <br/><br/>
-  <em>“Most AI platforms help individuals work faster. Orion Helix is being built to help entire teams think, collaborate, and execute with AI together — in real time.”</em><br/>
-  <strong>— Divyanshu Sisodiya, Co‑Founder, Singularity Horizon</strong>
+  <em>“Most AI platforms help individuals. Orion Helix helps entire teams think, collaborate, and execute with AI together.”</em><br/>
+  <strong>— Divyanshu Sisodiya</strong>
 </div>
 
 ---
@@ -193,15 +192,17 @@ Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Neon GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff&bg_color=0D1117" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=7F5AF0&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <!-- Stats card with electric colors -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AudaciousDivyanshu&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=00FF00&bg_color=0a0a0a" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AudaciousDivyanshu&theme=radical&hide_border=true&background=0a0a0a&stroke=00FFFF&ring=FF00FF&fire=FF6B00&currStreakLabel=00FFFF" />
 </div>
 
+<!-- Activity graph with cyberpunk colors -->
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&bg_color=0D1117&color=58A6FF&line=7F5AF0&point=FF6B6B&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&bg_color=0a0a0a&color=00FFFF&line=FF00FF&point=00FF00&area=true&hide_border=true" />
 </div>
 
 ---
@@ -219,23 +220,23 @@ Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Connect in the Grid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AudaciousDivyanshu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshusisodiya1@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AudaciousDivyanshu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AudaciousDivyanshu)
+[![Gmail](https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:divyanshusisodiya1@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-FF6B00?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/AudaciousDivyanshu)
 
 </div>
 
 ---
 
 <div align="center">
-  <strong>Open to collaborations, co‑founder opportunities & building the future together.</strong><br/>
+  <strong>⚡ Open to collaborations, co‑founder opportunities & building the future together ⚡</strong><br/>
   <em>“The best way to predict the future is to build it.” — Alan Kay</em>
 
-  <!-- Animated Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,75:1a1a2e,100:0D1117&height=120&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=18&fontColor=58A6FF&animation=twinkling&fontAlignY=60"/>
+  <!-- Neon Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0033,75:0a0a2a,100:000000&height=120&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=18&fontColor=00FFFF&animation=twinkling&fontAlignY=60"/>
 </div>
