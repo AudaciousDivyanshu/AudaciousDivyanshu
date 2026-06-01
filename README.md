@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Modern Badge Strip -->
+<!-- Modern Badge strip -->
 <img src="https://img.shields.io/badge/🚀_Founder-Orion_Helix-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDBhMSAxIDAgMCAwLTEgMXY0SDFhMSAxIDAgMCAwLTEgMXY2YTEgMSAwIDAgMCAxIDFoMTJhMSAxIDAgMCAwIDEtMVY1YTEgMSAwIDAgMC0xLTFIOVYxYTEgMSAwIDAgMC0xLTF6Ii8+PC9zdmc+" />
 <img src="https://img.shields.io/badge/🧠_AI_Architect-LLM_%26_Agents-7F5AF0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💡_Building_in_Public-Singularity_Horizon-FF6B6B?style=for-the-badge" />
