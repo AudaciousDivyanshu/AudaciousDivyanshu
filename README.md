@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centre">
 
 <!-- Animated Header (capsule-render) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F2A3E,70:16213E,100:0D1117&height=280&section=header&text=Divyanshu%20Sisodiya&fontSize=52&fontColor=1F6FEB&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Singularity%20Horizon%20%7C%20AI%20Architect%20%7C%20Startup%20Builder&descAlignY=58&descSize=16&descColor=8B9DC3"/>
