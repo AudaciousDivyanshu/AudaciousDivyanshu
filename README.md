@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=1F6FEB&center=true&vCenter=true&width=900&lines=🚀+Building+the+Future+of+Team+Intelligence;🧠+Orion+Helix+—+Multiplayer+AI+Workspace;⚡+Full‑Stack+AI+%26+Startup+Builder;🌐+India+→+World+%7C+Open+Source;💡+“AI+as+a+co‑founder%2C+not+just+a+tool”" />
 
-<br/>
+</br>
 
 <!-- Professional Badge Row -->
 <img src="https://img.shields.io/badge/FOUNDER-ORION_HELIX-1F6FEB?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117&color=1F6FEB" />
