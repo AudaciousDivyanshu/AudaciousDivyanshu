@@ -205,18 +205,6 @@ Every AI tool is **single‑player**. Your team stays disconnected.
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AudaciousDivyanshu&bg_color=0a0a0a&color=00FFFF&line=FF00FF&point=00FF00&area=true&hide_border=true" />
 </div>
 
----
-
-## 🗺️ 2025 Roadmap
-
-| Milestone | Target | Status |
-|:---|:---|:---|
-| 🚀 Launch Orion Helix (Private Alpha) | Q2 2025 | 🔄 In Progress |
-| 🧠 Master Agentic AI & LLM fine‑tuning | Q2 2025 | 🔄 In Progress |
-| 🌐 Ship 5 AI‑powered projects | Q3 2025 | 🔄 In Progress |
-| 📦 Contribute to major Open Source AI repos | Q3 2025 | ⬜ Upcoming |
-| 🎤 Speak at a tech/startup event | Q4 2025 | ⬜ Upcoming |
-| 💰 First startup revenue milestone | Q4 2025 | 🔄 In Progress |
 
 ---
 
