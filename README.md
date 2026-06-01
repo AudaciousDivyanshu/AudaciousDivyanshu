@@ -8,11 +8,11 @@
 
 <br/>
 
-<!-- Profile badges -->
-<img src="https://komarev.com/ghpvc/?username=AudaciousDivyanshu&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/AudaciousDivyanshu?label=Followers&style=for-the-badge&color=7F5AF0" />
-<img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Startups-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product-Orion%20Helix%20AI-00D4AA?style=for-the-badge" />
+<!-- Modern Badge Strip -->
+<img src="https://img.shields.io/badge/🚀_Founder-Orion_Helix-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDBhMSAxIDAgMCAwLTEgMXY0SDFhMSAxIDAgMCAwLTEgMXY2YTEgMSAwIDAgMCAxIDFoMTJhMSAxIDAgMCAwIDEtMVY1YTEgMSAwIDAgMC0xLTFIOVYxYTEgMSAwIDAgMC0xLTF6Ii8+PC9zdmc+" />
+<img src="https://img.shields.io/badge/🧠_AI_Architect-LLM_%26_Agents-7F5AF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_Building_in_Public-Singularity_Horizon-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌍_Global_Startup-India_→_World-2ECC71?style=for-the-badge" />
 
 </div>
 
@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<div style="background: #0D1117; border-radius: 24px; border: 1px solid #58A6FF; padding: 1.5rem;">
+<div style="background: #0D1117; border-radius: 28px; border: 1px solid #58A6FF; padding: 1.8rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
 ### 🧑 Identity
 
@@ -51,7 +51,7 @@
 </td>
 <td width="50%" valign="top">
 
-<div style="background: #0D1117; border-radius: 24px; border: 1px solid #7F5AF0; padding: 1.5rem;">
+<div style="background: #0D1117; border-radius: 28px; border: 1px solid #7F5AF0; padding: 1.8rem; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
 ### 🎯 Mission
 
@@ -87,30 +87,30 @@
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1rem; border: 1px solid #58A6FF;">
+  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #58A6FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <strong>🧭 VISION</strong><br/><br/>
     Democratize AI collaboration for every team on the planet
   </div>
 </td>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1rem; border: 1px solid #7F5AF0;">
+  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #7F5AF0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <strong>⚡ WHAT WE DO</strong><br/><br/>
     Build AI‑native products that make teams think & execute faster
   </div>
 </td>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1rem; border: 1px solid #FF6B6B;">
+  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #FF6B6B; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <strong>🛠️ STAGE</strong><br/><br/>
     Early‑stage startup — building in public, shipping fast
   </div>
 </td>
 <td align="center" width="25%">
-  <div style="background: #0D1117; border-radius: 20px; padding: 1rem; border: 1px solid #2ECC71;">
+  <div style="background: #0D1117; border-radius: 20px; padding: 1.2rem; border: 1px solid #2ECC71; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <strong>🌍 BASED IN</strong><br/><br/>
     India 🇮🇳 — Building for the world
   </div>
 </td>
-</tr>
+</td>
 </table>
 
 <br/>
@@ -148,7 +148,7 @@ Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑
 | 🤝 **AI as co‑founder** | Not just a tool — a team member |
 
 </td>
-</tr>
+</table>
 </table>
 
 <div align="center">
@@ -226,6 +226,7 @@ Every AI tool is **single‑player**. You open it alone. Generate alone. Copy‑
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sisodiya-69365838b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AudaciousDivyanshu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshusisodiya1@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AudaciousDivyanshu)
 
 </div>
 
